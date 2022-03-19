@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>RedSharp.FileSystem.Sys</RootNamespace>
+  </PropertyGroup>
+
+  <Import Project="$(ProjectDir)..\Definitions.props" />
+
+  <ItemGroup>
+    <ProjectReference Include="..\RedSharp.System\RedSharp.System\RedSharp.System.csproj" />
+  </ItemGroup>
+
+</Project>
