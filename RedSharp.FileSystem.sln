@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedSharp.FileSystem.System", "RedSharp.FileSystem.System\RedSharp.FileSystem.System.csproj", "{6382A5C8-5AF4-4475-A602-747D64DB92F2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedSharp.FileSystem.Standard", "RedSharp.FileSystem.Standard\RedSharp.FileSystem.Standard.csproj", "{73729C44-FBCE-4A05-89B6-BB41445557AA}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedSharp.System", "RedSharp.System\RedSharp.System\RedSharp.System.csproj", "{1551614B-C0C8-407B-B528-08A282E29491}"
 EndProject
 Global
@@ -19,10 +17,6 @@ Global
 		{6382A5C8-5AF4-4475-A602-747D64DB92F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6382A5C8-5AF4-4475-A602-747D64DB92F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6382A5C8-5AF4-4475-A602-747D64DB92F2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{73729C44-FBCE-4A05-89B6-BB41445557AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{73729C44-FBCE-4A05-89B6-BB41445557AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{73729C44-FBCE-4A05-89B6-BB41445557AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{73729C44-FBCE-4A05-89B6-BB41445557AA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1551614B-C0C8-407B-B528-08A282E29491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1551614B-C0C8-407B-B528-08A282E29491}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1551614B-C0C8-407B-B528-08A282E29491}.Release|Any CPU.ActiveCfg = Release|Any CPU
